@@ -1,6 +1,6 @@
 # 03/06/2016 - Everaldo Gomes - everaldo.gomes@gmail.com
 #
-# 017 - Chomp nos livra do incômodo \n do gets
+# 018 - Chomp nos livra do incômodo \n do gets
 #
 # http://ruby-doc.org/core-2.2.0/String.html#method-i-chomp
 #

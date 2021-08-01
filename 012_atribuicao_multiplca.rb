@@ -5,7 +5,7 @@
 # Ruby permite que inúmeras variáveis sejam atribuídas
 # com um único operador de atribuição (=)
 #
-# Use o operador igual para separar os valores
+# Use o operador vírgula para separar os valores
 #
 
 

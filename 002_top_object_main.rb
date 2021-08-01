@@ -1,6 +1,6 @@
 # 31/05/2016 - Everaldo Gomes - everaldo.gomes@gmail.com
 #
-# 001 - Top Object Main
+# 002 - Top Object Main
 #
 # Na linguagem Ruby, um conceito muito importante é o de self.
 # Semelhante ao self do Python e ao this do Java e Javascript,

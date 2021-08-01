@@ -11,7 +11,7 @@
 
 
 # A partir do Ruby 2.0 (estamos no 2.3) todas as Strings são
-# UTF-8 por default, portanto pode utilizar acento sem problemas
+# UTF-8 por default, portanto pode utilizar acentuação sem problemas
 # E caracteres especiais, caso deseje
 
 

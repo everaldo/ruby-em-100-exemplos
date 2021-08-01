@@ -4,7 +4,7 @@
 #        não confunda com blocos do/end
 #
 #
-# Blocos de expressões são expressoẽs por begin e end,
+# Blocos de expressões são expressões por begin e end,
 # com o único objetivo de agrupar expressões (comandos) e
 # capturar exceções. O último comando executado é o retorno do
 # bloco.

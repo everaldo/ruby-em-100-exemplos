@@ -44,6 +44,9 @@ catch :quit_requested do
   puts "#{nome}, #{idade}, #{sexo}"
 end
 
+puts "Fim"
+
+
 #
 # Para maiores informações:
 # http://ruby-doc.org/core-2.3.1/Kernel.html#method-i-catch

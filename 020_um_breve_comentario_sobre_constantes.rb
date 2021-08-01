@@ -33,7 +33,7 @@
 puts Object::constants
 
 
-# Lista todas as constantes presentes na classe Math
+# Lista todas as constantes presentes no módulo Math
 
 puts Math::constants
 

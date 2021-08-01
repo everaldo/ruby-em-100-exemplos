@@ -9,7 +9,7 @@
 # mudam seu conteúdo, sem alterar o endereço. Por exemplo upcase!
 #
 #
-# Maix exatamente algumas modificações que façamos num objeto
+# Mais exatamente algumas modificações que façamos num objeto
 # string criam um novo objeto String e não alteram o original.
 # Que, se não for mais utilizado é reciclado pelo coletor de lixo - GC
 #

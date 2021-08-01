@@ -33,7 +33,7 @@ end until opcao == 0 # Aqui utilizamos o operador igual
 
 puts "Vamos contar até 999"
 i = 0
-i += 1 until i = 999
+i += 1 until i == 999
 
 
 puts "i=#{i}"

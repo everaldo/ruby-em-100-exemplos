@@ -9,7 +9,7 @@
 #
 # No início, toda a programação era feita com Go-to's.
 #
-# Depois, com o surgimento da programação estrutura, o
+# Depois, com o surgimento da programação estruturada, o
 # uso de go-to's foi condenado.
 #
 # Mas, sabe-se, que na verdade, em muitos casos e muitos
